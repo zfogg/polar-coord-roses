@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "name": "flint-app-roses",
+  "repository": "https://github.com/roses",
+  "description": "",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {},
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "installed": []
+}
